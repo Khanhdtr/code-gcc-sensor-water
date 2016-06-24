@@ -1,0 +1,9 @@
+.cproject
+.project
+build/
+firmware/
+.settings/
+.DS_Store
+include/config.local.h
+.map
+*.sublime-workspace

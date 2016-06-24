@@ -1,2 +1,1 @@
-# code-gcc-sensor-water
-# Bản thử nghiệm chưa chính thức
+Giao tiep ds18b20 with stm32f103
